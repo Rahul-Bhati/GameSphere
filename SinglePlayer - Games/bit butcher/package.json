@@ -39,6 +39,6 @@
     "build": "npm run rollup && build.bat && filesize.bat game.zip"
   },
   "devDependencies": {
-    "rollup": "^2.78.1"
+    "rollup": "^2.80.0"
   }
 }
