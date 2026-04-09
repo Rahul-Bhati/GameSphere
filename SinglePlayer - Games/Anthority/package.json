@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/CrociDB/anthority#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
+    "cheerio": "^1.2.0",
     "clean-css": "^4.1.8",
     "html-minifier": "^3.5.3",
     "uglify-es": "^3.0.28"
